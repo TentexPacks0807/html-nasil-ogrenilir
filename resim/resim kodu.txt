@@ -1,0 +1,13 @@
+1:
+<img src="ornek.jpg" alt="Örnek Resim"/>
+
+2:
+<a href="#"><img src="html.jpg" alt="Örnek Resim" /></a>
+
+3:
+<a href="#"><img src="html.jpg" alt="Örnek Resim" border="0"/></a>
+
+4:
+<img src="html.jpg" alt="Sağa Dayalı Resim" border="0" align="right"/>
+      Ahmet Bey, küçük, ahşap, kırmızı boyalı, iki katlı bir evde otururdu. Erkenden kalkar, "Haydi ya nasip" derdi ve evden çıkardı. Kimseler anlamazdı "Ya nasip" ne demekti? O mahallede herkes gömlek giyerdi, Ahmet Bey bir de ceket diktirdi, mahalleli bundan pek hoşlanmamış gibiydi.<br /><br />
+      Mahalleli kahvede zaman öldürüyor, sabah akşam sohbet ediyordu. Oysa Ahmet Bey onlardan farklı olarak sessizliği severdi. Mahallelinin sevmediğini bildiği ceketine bir de astar diktirmişti. Mahalleliye dert olmuştu Ahmet Bey'in ceketi.<br /><br />

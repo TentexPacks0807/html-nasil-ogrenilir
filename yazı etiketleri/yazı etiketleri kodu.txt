@@ -1,0 +1,4 @@
+1:
+face="yazıtipi" - Yazı tipi, font klasöründeki adıyla yazılır.
+size="boyut" - 1-6 arasında bir değerdir.
+color="renk" - Yazı rengini burdan belirtiriz. Renklerle ilgili bilgi verilecek..

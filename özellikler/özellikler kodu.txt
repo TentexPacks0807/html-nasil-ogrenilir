@@ -1,0 +1,5 @@
+1:
+<h1 align="center">Ortalanmış Bir Başlık</h1>
+2:
+<a href="#" title="Murat'ın sayfası için tıklayın..">Benim Bağlantım 1</h1>
+   <a href="#" title='"Murat" ın sayfası için tıklayın..'>Benim Bağlantım 2</h1>

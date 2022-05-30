@@ -1,0 +1,20 @@
+1:
+<ul>
+      <li>Çay</li>
+      <li>Kahve</li>
+      <li>Kola</li>
+   </ul>
+2:
+  <ol>
+      <li>Çay</li>
+      <li>Kahve</li>
+      <li>Kola</li>
+   </ol>
+3:
+<dl>
+      <dt>Kahve</dt>
+         <dd>Kahverengidir</dd>
+         <dd>Sıcaktır</dd>
+      <dt>Süt</dt>
+         <dd>Beyazdır</dd>
+   </dl>

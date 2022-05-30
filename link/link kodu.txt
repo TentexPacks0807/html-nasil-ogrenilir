@@ -1,0 +1,7 @@
+<a href="index.html">HTML Dersleri için buraya tıklayın (Sayfa)</a><p>
+
+<a href="http://sitesi.web.tr/">Ana sayfa için buraya tıklayın (Site).</a><p>
+
+<a href="mailto:admin@venus.gen.tr">Bize e-mail göndermek için buraya tıklayın (E-mail).</a><p
+
+<a href="http://html.sitesi.web.tr/images/html.gif">Site logosunu görmek için buraya tıklayın (GIF resim dosyası).</a><p
