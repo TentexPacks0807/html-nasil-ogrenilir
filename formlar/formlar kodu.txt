@@ -1,0 +1,25 @@
+1:
+<form name="form" action="index.asp" method="post">
+      <b>Kullanıcı Adı:</b><br />
+      <input type="text" name="isim" size="24"><br /><br />
+      <b>Şifre:</b><br />
+      <input type="password" name="sifre" size="16"><br /><br />
+      <input type="submit" name="gonder" value="Gönder"><br /><br />
+   </form>
+2:
+<form name="form" action="index.asp" method="post">
+      <b>Yorumunuzu Yazın:</b><br />
+      <textarea cols="40" rows="4">Yorum Kutusu</textarea><br /><br />
+   </form>
+3:
+<input type="radio" name="cinsiyet" value="erkek"> Erkek <br />
+      <input type="radio" name="cinsiyet" value="kiz"> Kız <br />
+4:
+<input type="checkbox" name="araba_var" value="araba"> Arabam var. <br />
+      <input type="checkbox" name="ev_var" value="ev"> Evim var. <br />
+5:
+<select name="renk">
+         <option value="beyaz">Beyaz</option>
+         <option value="kirmizi">Kırmızı</option>
+         <option value="siyah">Siyah</option>
+      </select>
